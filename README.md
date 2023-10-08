@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @itluwins
-- 👀 I’m interested in learn more about on java scipt and phyton 
-- 🌱 I’m currently learning a few things about these cited before
-- 💞️ I’m looking to collaborate on something big in the future, when i get more knowledgment
-- 📫 How to reach me. You can through ferandoluis12605@gmail.com
+👋 Hi there! Welcome to my GitHub profile: @itluwins.
+
+👀 I'm passionate about expanding my knowledge in JavaScript and Python.
+
+🌱 Currently, I'm actively engaged in learning and mastering both of these programming languages.
+
+💡 I'm eager to collaborate on ambitious projects in the future, once I've gained more expertise.
+
+📫 Feel free to reach out to me via email at ferandoluis12605@gmail.com.
+
 <!---
-itluwins/itluwins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+itluwins/itluwins is a ✨ special ✨ repository because its `README.md` appears on my GitHub profile. You can click the "Preview" link to check out any changes I make.
 --->
+
+Let me know if you need further improvements or have any other questions!
